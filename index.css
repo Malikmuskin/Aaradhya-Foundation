@@ -34,7 +34,7 @@
     background-size: cover;
 }
 .home-bg-card-image{
-    height: 90px;
+    width: 50vh;
 }
 .banner-heading {
     color: rgb(255, 255, 255);
